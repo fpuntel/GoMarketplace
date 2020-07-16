@@ -12,6 +12,8 @@ import Logo from '../assets/logo.png';
 
 const App = createStackNavigator();
 
+//EBEEF8
+
 const AppRoutes: React.FC = () => (
   <App.Navigator
     screenOptions={{
